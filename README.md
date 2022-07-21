@@ -5,4 +5,4 @@ To initialize a index.csv file, run command: python index.py -d 'dataset's path'
 
 To search the image, run command: python interface.py.
 
-In the UI, click 'Open image' to choose a query image, click 'Crop' to crop a specific sub-image, then click summit to generate the result images
+In the UI, click 'Open image' to choose a query image, click 'Crop' to crop a specific sub-image, then click 'Summit' to generate the result images
